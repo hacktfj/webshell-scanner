@@ -1,0 +1,1 @@
+<?php include "./b1.jpg"?>
